@@ -1,6 +1,6 @@
 // Aqui nós estamos pegando as informações para bater na API.
 
-const API_KEY = ""; // Adicionar API KEY FROM TMDB
+const API_KEY = "74bbf1917dbd2a4aed978f3c6923b3bb"; // Adicionar API KEY FROM TMDB
 const API_BASE = "https://api.themoviedb.org/3";
 
 /* 
